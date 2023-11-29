@@ -35,7 +35,7 @@ This project explores the factors influencing home prices over the past two deca
    - [Metadata](https://github.com/dipboruah/US-Home-Prices-Analysis/blob/main/Metadata.csv)
    - [Cleaned Data](https://github.com/dipboruah/US-Home-Prices-Analysis/blob/main/US_Data_Cleaned.csv)
    - [Regression Model](https://github.com/dipboruah/US-Home-Prices-Analysis/blob/main/Regression_Model.ipynb)
-   - [Final Report]
+   - [Final Report](https://github.com/dipboruah/US-Home-Prices-Analysis/blob/main/Final_Report.pdf)
 
 7. **Visualizations:**
    - Scatter plots, regression diagnostics, feature importance graphs.
