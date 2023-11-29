@@ -1,0 +1,15 @@
+Column Name,Feature Details,Source Url,Frequency,Units
+Observation_date,20 Years of Monthly Observation,NA,Monthly,Date
+Price Index,S&P/Case-Shiller U.S. National Home Price Index (CSUSHPISA),https://fred.stlouisfed.org/series/CSUSHPISA,Monthly,Index Jan 2000=100
+Employed,"Employed, Usually Work Full Time (LNS12500000)",https://fred.stlouisfed.org/series/LNS12500000,Monthly,Thousands of Persons
+New House Supply Rate,Monthly Supply of New Houses in the United States (MSACSR),https://fred.stlouisfed.org/series/MSACSR,Monthly,Months' Supply
+Population,Population Level (CNP16OV),https://fred.stlouisfed.org/series/CNP16OV,Monthly,Thousands of Persons
+Mortgage Rate,15-Year Fixed Rate Mortgage Average in the United States (MORTGAGE15US),https://fred.stlouisfed.org/series/MORTGAGE15US,Weekly,Percent
+Personal Income, Personal Income (PI),https://fred.stlouisfed.org/series/PI,Monthly,Billions of Dollars
+GDP,Gross Domestic Product (GDP),https://fred.stlouisfed.org/series/GDP,Quarterly,Billions of Dollars
+Unemployment Rate,Unemployment Rate (UNRATE),https://fred.stlouisfed.org/series/UNRATE,Monthly,Percent
+Houseownership Rate,Homeownership Rate in the United States (RHORUSQ156N),https://fred.stlouisfed.org/series/RHORUSQ156N,Quarterly,Percent
+New One Family House,New One Family Homes for Sale in the United States (HNFSEPUSSA),https://fred.stlouisfed.org/series/HNFSEPUSSA,Monthly,Thousands of Units
+Inflation Rate,"Inflation, consumer prices for the United States (FPCPITOTLZGUSA)",https://fred.stlouisfed.org/series/FPCPITOTLZGUSA,Annual,Percent
+Consumer Credit Rate,Percent Change of Total Consumer Credit (TOTALSLAR),https://fred.stlouisfed.org/series/TOTALSLAR,Monthly,Percent Change at Annual Rate
+Floor Area West Census Region, New Privately Owned Housing Starts Median Square Feet of Floor Area for One-Family Units in the West Census Region (HOUSTSFLAM1FWQ), https://fred.stlouisfed.org/series/HOUSTSFLAM1FWQ,Quarterly,Square Feet
