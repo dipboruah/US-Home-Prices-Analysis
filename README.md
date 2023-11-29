@@ -33,7 +33,7 @@ This project explores the factors influencing home prices over the past two deca
 6. **GitHub Repository Structure:**
    - [Raw Data](https://github.com/dipboruah/US-Home-Prices-Analysis/tree/main/Raw%20Datasets).
    - [Metadata](https://github.com/dipboruah/US-Home-Prices-Analysis/blob/main/Metadata.csv)
-   - [Cleaned Data]
+   - [Cleaned Data](https://github.com/dipboruah/US-Home-Prices-Analysis/blob/main/US_Data_Cleaned.csv)
    - [Regression Model]
    - [Final Report]
 
