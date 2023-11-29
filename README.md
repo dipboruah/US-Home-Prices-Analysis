@@ -31,7 +31,7 @@ This project explores the factors influencing home prices over the past two deca
    - The model explains 0.98% of the variability in home prices, providing a robust fit to the data.
 
 6. **GitHub Repository Structure:**
-   - Directory structure.
+   - [Raw Data](https://github.com/dipboruah/US-Home-Prices-Analysis/tree/main/Raw%20Datasets).
    - README with instructions for code execution.
 
 7. **Visualizations:**
